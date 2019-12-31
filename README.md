@@ -1,2 +1,2 @@
 # Machine_Learning
-All stuff related to ML
+Jupyter Notebooks for Machine Learning End-to-End Pipeline
